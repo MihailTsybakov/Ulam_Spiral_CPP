@@ -71,7 +71,7 @@ int main(void)
     scale = 4;
     direction_x = -1;
     direction_y = 0;
-    numbers_count = 10000000;// 3kk
+    numbers_count = 10000000;// 10kk
     /// --- --- --- ---
 
     image.fill(0);
